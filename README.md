@@ -1,7 +1,6 @@
 # GAZ
 An open source gazetteer constructed on ontological principles.
-PI: Michael Ashburner (retired)
-PI: Lynn Schriml (coordinating community GAZ curation)
+PI: Michael Ashburner (retired), please contact Lynn Schriml (lead editor) - coordinating community GAZ curation.
 
 ## Brief description
 GAZ is a large, ontologically-oriented resource listing place names which can be treated as instances of environments (see [ENVO](https://github.com/EnvironmentOntology/)). 
